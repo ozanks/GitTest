@@ -3,6 +3,4 @@ VSCode termnal git VCS
 
 Readme.md  dosyasında değişiklik yaptım.
 
-subBranch
-
-git edit no:1
+ES6 class yapısında düzenlendi.
